@@ -1,0 +1,11 @@
+#div{height:100%; width:100%; display:flex;}
+#div1{height:100%; width:30%; background-color:#0e3013; border-radius:5px; color:white;}
+#div2{height:100%; width:70%; background-color:#ADFF2F; border-radius:2px;  color:#000000}
+h1{ color:#000000; text-align:center; font:Arial; color:brown;}
+button{color:green; padding:10px; background:brown; border-radius:5px; }
+#form{color:white; padding:15px; font-size:25px; font-family:Arial;}
+h2{text-align:center;}
+#table{width:100%; border-collapse:collapse; }
+#tr{background-color:lightgrey;}
+#tr2{background-color:white;}
+
